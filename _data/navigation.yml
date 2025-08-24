@@ -7,16 +7,17 @@ main:
   #   url: "/zh-cn/#-xl"
 
   - title: "Publications"
-    url: "/wanglh300.github.io/#-lwzl"
+    url: "#-lwzl"
 
   - title: "Awards"
-    url: "/wanglh300.github.io/#-ryjx"
+    url: "#-ryjx"
 
   # - title: "学术会议"
   #   url: "/zh-cn/#-xshy"
 
   # - title: "工作实习"
   #   url: "/zh-cn/#-gzsx"
+
 
 
 
