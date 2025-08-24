@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About me
 Linhao Wang is now a fourth-year undergraduate student majoring in Cyber Security at Shandong Normal University.
- <a href='https://scholar.google.com/citations?user=WzCAcy0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+ <a href='https://scholar.google.com/citations?user=WzCAcy0AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!--<span class='anchor' id='-xl'></span> -->
 
@@ -39,6 +39,7 @@ Linhao Wang is now a fourth-year undergraduate student majoring in Cyber Securit
 
 
 <!--<span class='anchor' id='-gzsx'></span>-->
+
 
 
 
