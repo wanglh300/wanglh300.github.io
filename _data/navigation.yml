@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About me"
-    url: "/wanglh300.github.io/#about-me"
+    url: "#about-me"
 
   # - title: "学历"
   #   url: "/zh-cn/#-xl"
@@ -17,5 +17,6 @@ main:
 
   # - title: "工作实习"
   #   url: "/zh-cn/#-gzsx"
+
 
 
