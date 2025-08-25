@@ -23,10 +23,10 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
-<sup>†</sup> denotes corresponding author(s).<sup>*</sup> denotes equal contribution.
+† denotes corresponding author(s).* denotes equal contribution.
 ### Preprints
 ---
--	`Linhao Wang`, Qichang Zhang, Yifan Yang, Hao Wang<sup>†</sup>. EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention.  
+-	**Linhao Wang**, Qichang Zhang, Yifan Yang, Hao Wang<sup>†</sup>. EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention.  
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -36,6 +36,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 
 <!--<span class='anchor' id='-gzsx'></span>-->
+
 
 
 
