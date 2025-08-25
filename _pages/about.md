@@ -18,18 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About me
-Linhao Wang is now a fourth-year undergraduate student majoring in Cyber Security at Shandong Normal University.
-<!-- <a href='https://scholar.google.com/citations?user=WzCAcy0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
-
-<!--<span class='anchor' id='-xl'></span> -->
-
-
+I'm now a fourth-year undergraduate student majoring in Cyber Security at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/). Over the past two and a half years, I have maintained a GPA of 3.87, ranking 1st out of 41 students. I also have strong English skills with CET-4(575) and CET-6(573). My research interests focus on 3D computer vision, generative AI and AI with Security.
+ 
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
-
+<sup>†</sup> denotes corresponding author(s).<sup>*</sup> denotes equal contribution.
 ### Preprints
 ---
+-	`Linhao Wang`, Qichang Zhang, Yifan Yang, Hao Wang<sup>†</sup>. EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention.  
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -39,6 +36,7 @@ Linhao Wang is now a fourth-year undergraduate student majoring in Cyber Securit
 
 
 <!--<span class='anchor' id='-gzsx'></span>-->
+
 
 
 
