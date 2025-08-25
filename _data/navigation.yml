@@ -12,11 +12,12 @@ main:
   - title: "Awards"
     url: "#-ryjx"
 
-  # - title: "学术会议"
-  #   url: "/zh-cn/#-xshy"
-
+  - title: "Educations"
+    url: "#-Educations"   
+  
   # - title: "工作实习"
   #   url: "/zh-cn/#-gzsx"
+
 
 
 
