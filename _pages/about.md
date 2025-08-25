@@ -75,8 +75,9 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 
 <script type="text/javascript" id="clustrmaps"
-        src="//clustrmaps.com/map_v2.js?d=R48eUHV1Qmk6M1eLWLKT_bU1Xot_G16gEnJqR3hflCA&cl=ffffff&w=s">
+        src="//clustrmaps.com/map_v2.js?d=R48eUHV1Qmk6M1eLWLKT_bU1Xot_G16gEnJqR3hflCA&cl=ffffff&w=m">
 </script>
+
 
 
 
