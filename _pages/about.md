@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About me
-I'm now a fourth-year undergraduate student majoring in Cyber Security at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/). Over the past three years, I have maintained a GPA of 3.86, ranking 1st out of 41 students. I also have strong English skills with CET-4(575) and CET-6(573). My research interests focus on 3D computer vision, generative AI and AI with Security.
+I'm now a fourth-year undergraduate student majoring in Cyber Security at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/). Over the past three years, I have maintained a GPA of 3.86, ranking 1st out of 41 students. I also have strong English skills with CET-4(**575**) and CET-6(**573**). My research interests focus on 3D computer vision, generative AI and AI with Security.
  
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
-† denotes corresponding author(s).* denotes equal contribution.
+† denotes corresponding author. * denotes equal contribution.
 ### Preprints
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/EAGLE.svg' alt="sym" width="100%"></div></div>
@@ -35,14 +35,19 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 </div>
 </div>
 
+### Conference papers
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/ICIC2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Linhao Wang**, Zhengyang Xu<sup>†</sup>. Optimization Design of Heliostat Field Based on Particle Swarm Algorithm. *International Conference on Intelligent Computing 2025(CCF-C, `oral presentation`)*
+[[Paper]](https://doi.org/10.1007/978-981-96-9921-6_41)
+
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards 
 
-<!--<span class='anchor' id='-xshy'></span>-->
 
-
-<!--<span class='anchor' id='-gzsx'></span>-->
 
 
 
