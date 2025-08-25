@@ -66,7 +66,8 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *2022.08 - 2026.07*, <a href="http://sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="60pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
+- *2022.08 - 2026.07*, <a href="https://www.sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="70pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
+
 
 
 
