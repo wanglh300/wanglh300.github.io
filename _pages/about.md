@@ -19,9 +19,6 @@ redirect_from:
 
 # 🎓 About me
 I'm now a fourth-year undergraduate student majoring in Cyber Security at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/). Over the past three years, I have maintained a GPA of 3.86, ranking 1st out of 41 students. I also have strong English skills with CET-4(**575**) and CET-6(**573**). My research interests focus on generative AI and AI with Security.
-<br>
-我目前是山东师范大学信息科学与工程学院网络空间安全专业的大四本科生。在本科的前六学期，我的GPA为3.86，在本专业排名第一（1/41）。我具备较强的英语能力，CET-4成绩为575，CET-6成绩为573。我的研究兴趣主要集中在AIGC以及AI with Security。
- 
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
@@ -74,6 +71,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 # 📖 Educations
 - *2016.06 - 2022.12*, <a href="http://sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="23pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
+
 
 
 
