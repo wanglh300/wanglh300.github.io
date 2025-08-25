@@ -24,7 +24,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 # 📝 Publications
 † denotes corresponding author. * denotes equal contribution.
-### Preprints
+## Preprints
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/EAGLE.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,20 +35,31 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 </div>
 </div>
 
-### Conference papers
+## Conference papers
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/ICIC2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Linhao Wang**, Zhengyang Xu<sup>†</sup>. Optimization Design of Heliostat Field Based on Particle Swarm Algorithm. *International Conference on Intelligent Computing 2025 (CCF-C, `oral presentation`)*
+- **Linhao Wang**, Zhengyang Xu<sup>†</sup>. Optimization Design of Heliostat Field Based on Particle Swarm Algorithm. *International Conference on Intelligent Computing 2025(CCF-C, `oral presentation`)*
 [[Paper]](https://doi.org/10.1007/978-981-96-9921-6_41)
+
+</div>
+</div>
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 Awards 
-
-
-
+# 🏅 Honors and Awards 
+-*2025.05*, Awarded “Excellent Communist Youth League Member”.
+-*2024.12*, Awarded “Outstanding Student”.
+-*2024.12*, Awarded “First-Class Outstanding Student Scholarship”.
+-*2024.12*, Awarded “Outstanding Student Leader”.
+-*2024.06*, National Youth Innovative Translation Competition, `National First Prize`.
+-*2024.06*, Information Security and Contermeasures Contest for College Students(ISCC), `National Third Prize`.
+-*2024.05*, National English Competition for College Students, `National Second Prize`.
+-*2024.05*, Awarded “Excellent Communist Youth League Member”.
+-*2023.12*, Awarded “Outstanding Student”.
+-*2023.12*, Awarded “First-Class Outstanding Student Scholarship”.
+-*2023.05*, Awarded “Excellent Communist Youth League Member”.
 
 
 
