@@ -74,9 +74,22 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 - *2016.06 - 2022.12*, <a href="http://sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="23pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
 
 
-<div style="width:100px; height:100px; overflow:hidden;">
+<div class="clustr-wrapper">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R48eUHV1Qmk6M1eLWLKT_bU1Xot_G16gEnJqR3hflCA"></script>
 </div>
+
+<style>
+.clustr-wrapper {
+  width: 200px;              /* 小地球宽度 */
+  height: 200px;             /* 小地球高度 */
+  margin: 0 auto;            /* 水平居中 */
+  overflow: hidden;          /* 避免内容溢出 */
+  transform: scale(1);       /* 如果想缩放，可以改为 0.5, 0.8 等 */
+  transform-origin: center;  /* 缩放从中心开始 */
+  text-align: center;        /* 保证内部内容水平居中 */
+}
+</style>
+
 
 
 
