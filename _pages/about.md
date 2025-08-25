@@ -76,7 +76,17 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <br>
 <br>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R48eUHV1Qmk6M1eLWLKT_bU1Xot_G16gEnJqR3hflCA&cl=ffffff&w=a"></script>
+<style>
+#clustrmaps_div {
+  transform: scale(0.6); /* 缩小到 60% */
+  transform-origin: center top; /* 缩放时以中心顶部为基点 */
+}
+</style>
+
+<script type="text/javascript" id="clustrmaps"
+        src="//clustrmaps.com/map_v2.js?d=R48eUHV1Qmk6M1eLWLKT_bU1Xot_G16gEnJqR3hflCA&cl=ffffff&w=a">
+</script>
+
 
 
 
