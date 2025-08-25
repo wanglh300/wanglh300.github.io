@@ -21,9 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : 
-   - "Linhao Wang"
-   - "王琳皓"
+  name             : "Linhao Wan<br>王琳皓"
   avatar           : "images/me.jpg"
   bio              : "Shandong Normal University"
   location         : "Jinan, China"
@@ -163,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
