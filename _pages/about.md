@@ -37,15 +37,16 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 ### Conference papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/ICIC2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/ICIC2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Linhao Wang**, Zhengyang Xu<sup>†</sup>. Optimization Design of Heliostat Field Based on Particle Swarm Algorithm. *International Conference on Intelligent Computing 2025(CCF-C, `oral presentation`)*
+- **Linhao Wang**, Zhengyang Xu<sup>†</sup>. Optimization Design of Heliostat Field Based on Particle Swarm Algorithm. *International Conference on Intelligent Computing 2025 (CCF-C, `oral presentation`)*
 [[Paper]](https://doi.org/10.1007/978-981-96-9921-6_41)
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards 
+
 
 
 
