@@ -49,17 +49,18 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards 
--*2025.05*, Awarded “Excellent Communist Youth League Member”.
--*2024.12*, Awarded “Outstanding Student”.
--*2024.12*, Awarded “First-Class Outstanding Student Scholarship”.
--*2024.12*, Awarded “Outstanding Student Leader”.
--*2024.06*, National Youth Innovative Translation Competition, `National First Prize`.
--*2024.06*, Information Security and Contermeasures Contest for College Students(ISCC), `National Third Prize`.
--*2024.05*, National English Competition for College Students, `National Second Prize`.
--*2024.05*, Awarded “Excellent Communist Youth League Member”.
--*2023.12*, Awarded “Outstanding Student”.
--*2023.12*, Awarded “First-Class Outstanding Student Scholarship”.
--*2023.05*, Awarded “Excellent Communist Youth League Member”.
+- *2025.05*, Awarded “Excellent Communist Youth League Member”.
+- *2024.12*, Awarded “Outstanding Student”.
+- *2024.12*, Awarded “First-Class Outstanding Student Scholarship”.
+- *2024.12*, Awarded “Outstanding Student Leader”.
+- *2024.06*, National Youth Innovative Translation Competition, `National First Prize`.
+- *2024.06*, Information Security and Contermeasures Contest for College Students(ISCC), `National Third Prize`.
+- *2024.05*, National English Competition for College Students, `National Second Prize`.
+- *2024.05*, Awarded “Excellent Communist Youth League Member”.
+- *2023.12*, Awarded “Outstanding Student”.
+- *2023.12*, Awarded “First-Class Outstanding Student Scholarship”.
+- *2023.05*, Awarded “Excellent Communist Youth League Member”.
+
 
 
 
