@@ -23,8 +23,8 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2025.04*, one paper is accepted by ICIC 2025 as `oral presentation`
-- *2025.02*, I was selected as an reviewer for IJCNN 2025
+- *2025.04*: one paper is accepted by ICIC 2025 as `oral presentation`
+- *2025.02*: I was selected as an reviewer for IJCNN 2025
 
 <span class='anchor' id='-lwzl'></span>
 # 📝 Publications
@@ -72,6 +72,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 # 📖 Educations
 - *2016.06 - 2022.12*, <a href="http://sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="23pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
+
 
 
 
