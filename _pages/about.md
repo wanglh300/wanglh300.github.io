@@ -20,8 +20,13 @@ redirect_from:
 # 🎓 About me
 I'm now a fourth-year undergraduate student majoring in Cyber Security at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/). Over the past three years, I have maintained a GPA of 3.86, ranking 1st out of 41 students. I also have strong English skills with CET-4(**575**) and CET-6(**573**). My research interests focus on 3D computer vision, generative AI and AI with Security.
  
-<span class='anchor' id='-lwzl'></span>
 
+<span class='anchor' id='-news'></span>
+# 🔥 News
+- *2025.04*, one paper is accepted by ICIC 2025 as `oral presentation`
+- *2025.02*, I was selected as an reviewer for IJCNN 2025
+
+<span class='anchor' id='-lwzl'></span>
 # 📝 Publications
 † denotes corresponding author. * denotes equal contribution.
 ## Preprints
@@ -30,7 +35,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <div class='paper-box-text' markdown="1">
   
 -	**Linhao Wang**, Qichang Zhang, Yifan Yang, Hao Wang<sup>†</sup>. EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention.
-[[arXiv]](https://arxiv.org/abs/2503.13479) [[code]](https://github.com/wanglh300/EAGLE)
+[[Paper]](https://arxiv.org/abs/2503.13479) [[code]](https://github.com/wanglh300/EAGLE)
 
 </div>
 </div>
@@ -67,6 +72,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 # 📖 Educations
 - *2016.06 - 2022.12*, <a href="http://sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="23pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
+
 
 
 
