@@ -1,7 +1,7 @@
 # main links links
 main:
-  -title: "Homepage"
-   url: "#about-me"
+  - title: "Homepage"
+    url: "#about-me"
    
   - title: "About me"
     url: "#about-me"
@@ -20,6 +20,7 @@ main:
   
   # - title: "工作实习"
   #   url: "/zh-cn/#-gzsx"
+
 
 
 
