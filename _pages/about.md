@@ -30,7 +30,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <div class='paper-box-text' markdown="1">
   
 -	**Linhao Wang**, Qichang Zhang, Yifan Yang, Hao Wang<sup>†</sup>. EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention.
-[[arXiv]](https://arxiv.org/abs/2503.13479)
+[[arXiv]](https://arxiv.org/abs/2503.13479) [[code]](https://github.com/wanglh300/EAGLE)
 
 </div>
 </div>
@@ -40,7 +40,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/ICIC2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Linhao Wang**, Zhengyang Xu<sup>†</sup>. Optimization Design of Heliostat Field Based on Particle Swarm Algorithm. *International Conference on Intelligent Computing 2025(CCF-C, `oral presentation`)*
+- **Linhao Wang**, Zhengyang Xu<sup>†</sup>. Optimization Design of Heliostat Field Based on Particle Swarm Algorithm. *International Conference on Intelligent Computing(CCF-C, `oral presentation`)*
 [[Paper]](https://doi.org/10.1007/978-981-96-9921-6_41)
 
 </div>
@@ -67,6 +67,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 # 📖 Educations
 - *2016.06 - 2022.12*, <a href="http://sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="23pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
+
 
 
 
