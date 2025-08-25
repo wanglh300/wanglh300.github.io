@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About me
-I'm now a fourth-year undergraduate student majoring in Cyber Security at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/). Over the past two and a half years, I have maintained a GPA of 3.87, ranking 1st out of 41 students. I also have strong English skills with CET-4(575) and CET-6(573). My research interests focus on 3D computer vision, generative AI and AI with Security.
+I'm now a fourth-year undergraduate student majoring in Cyber Security at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/). Over the past three years, I have maintained a GPA of 3.86, ranking 1st out of 41 students. I also have strong English skills with CET-4(575) and CET-6(573). My research interests focus on 3D computer vision, generative AI and AI with Security.
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -26,6 +26,9 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 † denotes corresponding author(s).* denotes equal contribution.
 ### Preprints
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/EAGLE.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 -	**Linhao Wang**, Qichang Zhang, Yifan Yang, Hao Wang<sup>†</sup>. EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention.  
 
 <span class='anchor' id='-ryjx'></span>
@@ -36,6 +39,7 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 
 
 <!--<span class='anchor' id='-gzsx'></span>-->
+
 
 
 
