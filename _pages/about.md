@@ -53,24 +53,21 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards 
-- *2025.05*, Awarded “Excellent Communist Youth League Member”
 - *2024.12*, Awarded “Outstanding Student”
 - *2024.12*, Awarded “First-Class Outstanding Student Scholarship”
 - *2024.12*, Awarded “Outstanding Student Leader”
 - *2024.06*, National Youth Innovative Translation Competition, `National First Prize`
 - *2024.06*, Information Security and Countermeasures Contest for College Students(ISCC), `National Third Prize`
 - *2024.05*, National English Competition for College Students, `National Second Prize`
-- *2024.05*, Awarded “Excellent Communist Youth League Member”
 - *2023.12*, Awarded “Outstanding Student”
 - *2023.12*, Awarded “First-Class Outstanding Student Scholarship”
-- *2023.05*, Awarded “Excellent Communist Youth League Member”
-
 
 
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
 - *2016.06 - 2022.12*, <a href="http://sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="23pt"></a> B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy.
+
 
 
 
