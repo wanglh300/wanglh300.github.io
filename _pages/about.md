@@ -83,11 +83,12 @@ I'm now a fourth-year undergraduate student majoring in Cyber Security at [Schoo
 .clustr-space {
   width: 150px;              /* 小地球宽度 */
   height: 150px;             /* 小地球高度 */
-  margin: 50px auto;         /* 上下间距 50px，水平居中 */
+  # margin: 50px auto;         /* 上下间距 50px，水平居中 */
   overflow: hidden;          /* 防止地图内容溢出 */
   text-align: center;        /* 居中小地球 */
 }
 </style>
+
 
 
 
