@@ -54,14 +54,15 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards 
-- *2024.12*, Awarded “Outstanding Student”
-- *2024.12*, Awarded “First-Class Outstanding Student Scholarship”
-- *2024.12*, Awarded “Outstanding Student Leader”
-- *2024.06*, National Youth Innovative Translation Competition, `National First Prize`
-- *2024.06*, Information Security and Countermeasures Contest for College Students(ISCC), `National Third Prize`
-- *2024.05*, National English Competition for College Students, `National Second Prize`
-- *2023.12*, Awarded “Outstanding Student”
-- *2023.12*, Awarded “First-Class Outstanding Student Scholarship”
+- Awarded "Outstanding Student" twice
+- Awarded "First-Class Outstanding Student Scholarship" twice
+- Awarded "Outstanding Student Leader" once
+- Awarded "Excellent Communist Youth League Member" three times 
+- National Youth Innovative Translation Competition, `National First Prize`
+- Information Security and Countermeasures Contest for College Students(ISCC), `National Third Prize`
+- National English Competition for College Students, `National Second Prize`
+<!-- *2023.12*, Awarded “Outstanding Student” -->
+<!-- *2023.12*, Awarded “First-Class Outstanding Student Scholarship” -->
 
 
 <span class='anchor' id='-educations'></span>
@@ -69,6 +70,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 # 📖 Educations
 - *2022.08 - 2026.07*, B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy, Jinan, China.
 <!-- <a href="https://www.sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="60pt"></a> -->
+
 
 
 
