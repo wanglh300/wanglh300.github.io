@@ -68,9 +68,9 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *2022.08 - 2026.07*, B.E. in the School of Information Science and Engineering, Shandong Normal Univeristy, Jinan, China.
+- *2022.08 - 2026.07*, B.E. at the School of Information Science and Engineering, Shandong Normal Univeristy, Ji'nan, Shandong, China.
 <!-- <a href="https://www.sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="60pt"></a> -->
-
+- *2026.08 - 2029.07*, M.S. at the Shanghai Film Academy, Shanghai University, Shanghai, China.
 
 
 
