@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About me
-&nbsp;&nbsp;I'm now a fourth-year undergraduate student at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/), supervised by [Dr. Hao Wang](https://scholar.google.com/citations?user=VaryZeIAAAAJ&hl=zh-CN). Recently, I am admitted to [Shanghai Film Academy, Shanghai University](https://sfa.shu.edu.cn/) through postgraduate recommendation exemption program and honored to join [MAGIC Lab](https://www.magic-lab.tech/), supervised by [Dr. Mengtian Li](https://mengtianli.github.io/). My research interests focus on AIGC.
+I'm now a fourth-year undergraduate student at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/), supervised by [Dr. Hao Wang](https://scholar.google.com/citations?user=VaryZeIAAAAJ&hl=zh-CN). Recently, I am admitted to [Shanghai Film Academy, Shanghai University](https://sfa.shu.edu.cn/) through postgraduate recommendation exemption program and honored to join [MAGIC Lab](https://www.magic-lab.tech/), supervised by [Dr. Mengtian Li](https://mengtianli.github.io/). My research interests focus on AIGC.
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
@@ -71,6 +71,7 @@ redirect_from:
 - *2022.08 - 2026.07*, B.E. at the School of Information Science and Engineering, Shandong Normal Univeristy, Ji'nan, Shandong, China.
 <!-- <a href="https://www.sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="60pt"></a> -->
 - *2026.08 - 2029.07*, M.S. at the Shanghai Film Academy, Shanghai University, Shanghai, China.
+
 
 
 
