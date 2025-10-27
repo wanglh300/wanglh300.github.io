@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "linhao wang"
+  github           : "https://github.com/wanglh300"
   google_plus      :
   keybase          :
   instagram        :
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
