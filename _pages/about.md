@@ -22,6 +22,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2025.11*: I start my intership at [Bilibili](https://www.bilibili.com/)
 - *2025.09*: I am honored to be admitted to Shanghai University through postgraduate recommendation exemption program.
 - *2025.04*: one paper is accepted by ICIC 2025 as `oral presentation`
 - *2025.02*: I was selected as an reviewer for IJCNN 2025
@@ -71,6 +72,20 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 - *2022.08 - 2026.07*, B.E. at the School of Information Science and Engineering, Shandong Normal Univeristy, Ji'nan, Shandong, China.
 <!-- <a href="https://www.sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="60pt"></a> -->
 - *2026.08 - 2029.07*, M.S. at the Shanghai Film Academy, Shanghai University, Shanghai, China.
+
+# 🔍 Research Experiences
+<table>
+  <tr>
+    <td width="150">
+      <img src="images/cn.svg" width="120">
+    </td>
+    <td>
+    **Audio Team, AI Platform Division, Bilibili**  
+    **[Currently] Intern**, Audio understanding and generation
+    </td>
+</tr>
+</table>
+
 
 
 
