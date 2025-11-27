@@ -77,7 +77,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 <div style="display: flex; align-items: center;">
 
 <div style="margin-right: 20px;">
-    <img src="images/bilibili.jpg" width="120">
+    <img src="images/bilibili_logo.jpg" width="120">
 </div>
 
 <div>
@@ -86,6 +86,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 </div>
 
 </div>
+
 
 
 
