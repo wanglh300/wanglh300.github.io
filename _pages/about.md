@@ -74,17 +74,6 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 - *2026.08 - 2029.07*, M.S. at the Shanghai Film Academy, Shanghai University, Shanghai, China.
 
 # 🔍 Research Experiences
-<table>
-  <tr>
-    <td width="150">
-      <img src="images/bilibili.jpg" width="120">
-    </td>
-    <td>
-    **Audio Team, AI Platform Division, Bilibili**  
-    **[Currently] Intern**, Audio understanding and generation
-    </td>
-</tr>
-</table>
 <div style="display: flex; align-items: center;">
 
 <div style="margin-right: 20px;">
@@ -97,6 +86,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 </div>
 
 </div>
+
 
 
 
