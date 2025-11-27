@@ -73,6 +73,8 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 <!-- <a href="https://www.sdnu.edu.cn/"><img class="svg" src="/images/SDNU_logo.svg" width="60pt"></a> -->
 - *2026.08 - 2029.07*, M.S. at the Shanghai Film Academy, Shanghai University, Shanghai, China.
 
+<span class='anchor' id='-re'></span>
+
 # 🔍 Research Experiences
 <div style="display: flex; align-items: center;">
 
@@ -86,6 +88,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 </div>
 
 </div>
+
 
 
 
