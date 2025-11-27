@@ -84,12 +84,13 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 <div>
   
-  [Index SpeechTeam](https://github.com/index-tts), AI Platform Division, Bilibili
+  - **[Index SpeechTeam](https://github.com/index-tts)**, AI Platform Division, Bilibili
   <br>
-    [Currently] Intern</strong>, Audio understanding and generation.
+  - [Currently] Intern, Audio understanding and generation.
 </div>
 
 </div>
+
 
 
 
