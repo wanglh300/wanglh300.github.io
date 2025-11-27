@@ -22,7 +22,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2025.11*: I start my intership at [Bilibili](https://www.bilibili.com/)
+- *2025.11*: I start my intership at [Bilibili](https://www.bilibili.com/).
 - *2025.09*: I am honored to be admitted to Shanghai University through postgraduate recommendation exemption program.
 - *2025.04*: one paper is accepted by ICIC 2025 as `oral presentation`
 - *2025.02*: I was selected as an reviewer for IJCNN 2025
@@ -77,7 +77,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 <table>
   <tr>
     <td width="150">
-      <img src="images/cn.svg" width="120">
+      <img src="images/bilibili.jpg" width="120">
     </td>
     <td>
     **Audio Team, AI Platform Division, Bilibili**  
@@ -85,6 +85,19 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
     </td>
 </tr>
 </table>
+<div style="display: flex; align-items: center;">
+
+<div style="margin-right: 20px;">
+    <img src="images/bilibili.jpg" width="120">
+</div>
+
+<div>
+    <strong>Audio Team, AI Platform Division, Bilibili</strong><br>
+    <strong>[Currently] Intern</strong>, Audio understanding and generation
+</div>
+
+</div>
+
 
 
 
