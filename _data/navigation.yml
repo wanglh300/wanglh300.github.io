@@ -14,9 +14,13 @@ main:
 
   - title: "Educations"
     url: "#-educations"   
+
+  - title: "Research Experiences"
+    url: "#-re"
   
   # - title: "工作实习"
   #   url: "/zh-cn/#-gzsx"
+
 
 
 
