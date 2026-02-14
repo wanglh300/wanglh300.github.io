@@ -22,6 +22,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.03*： I start my intership at [iFLYTEK](https://www.iflytek.com/en/index.html)
 - *2025.11*: I start my intership at [Bilibili](https://www.bilibili.com/).
 - *2025.09*: I am honored to be admitted to Shanghai University through postgraduate recommendation exemption program.
 - *2025.04*: one paper is accepted by ICIC 2025 as `oral presentation`
@@ -84,11 +85,22 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 <div class='paper-box-text' markdown="1">
   
-  - **[Index SpeechTeam](https://github.com/index-tts)**, AI Platform Division, Bilibili.
-  - [Currently] Intern, Audio understanding and generation.
+  - Index SpeechTeam, AI Platform Division, Bilibili.
+  - Intern, Audio understanding and generation.
+</div>
+
+<div style="margin-right: 20px;">
+    <img src="images/bilibili_logo.jpg" width="120">
+</div>
+
+<div class='paper-box-text' markdown="1">
+  
+  - AI Research Institute, iFLYTEK.
+  - Intern, LLM mid-traing.
 </div>
 
 </div>
+
 
 
 
