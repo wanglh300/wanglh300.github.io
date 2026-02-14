@@ -22,7 +22,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.03*： I start my intership at [iFLYTEK](https://www.iflytek.com/en/index.html)
+- *2026.03*: I start my intership at [iFLYTEK](https://www.iflytek.com/en/index.html).
 - *2025.11*: I start my intership at [Bilibili](https://www.bilibili.com/).
 - *2025.09*: I am honored to be admitted to Shanghai University through postgraduate recommendation exemption program.
 - *2025.04*: one paper is accepted by ICIC 2025 as `oral presentation`
@@ -103,6 +103,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 </div>
 </div>
+
 
 
 
