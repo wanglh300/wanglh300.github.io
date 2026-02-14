@@ -88,18 +88,22 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
   - Index SpeechTeam, AI Platform Division, Bilibili.
   - Intern, Audio understanding and generation.
 </div>
+</div>
+
+<div style="display: flex; align-items: center;">
 
 <div style="margin-right: 20px;">
-    <img src="images/bilibili_logo.jpg" width="120">
+    <img src="images/iflytek_logo.jpg" width="120">
 </div>
 
 <div class='paper-box-text' markdown="1">
   
-  - AI Research Institute, iFLYTEK.
-  - Intern, LLM mid-traing.
-</div>
+- AI Research Institute, iFLYTEK.  
+- Intern, LLM mid-training.
 
 </div>
+</div>
+
 
 
 
