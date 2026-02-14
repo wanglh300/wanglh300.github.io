@@ -56,7 +56,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards 
-- Kaggle 🥉
+- Kaggle Protein Function Prediction 🥉
 - Awarded "Outstanding Student" twice
 - Awarded "First-Class Outstanding Student Scholarship" twice
 - Awarded "Outstanding Student Leader" once
@@ -104,6 +104,7 @@ I'm now a fourth-year undergraduate student at [School of Information Science an
 
 </div>
 </div>
+
 
 
 
