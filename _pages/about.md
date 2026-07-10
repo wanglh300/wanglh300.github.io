@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🎓 About me
-I'm now a fourth-year undergraduate student at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/), supervised by [Dr. Hao Wang](https://scholar.google.com/citations?user=VaryZeIAAAAJ&hl=zh-CN). Recently, I am admitted to [Shanghai Film Academy, Shanghai University](https://sfa.shu.edu.cn/) through postgraduate recommendation exemption program and honored to join [MAGIC Lab](https://www.magic-lab.tech/), supervised by [Dr. Mengtian Li](https://mengtianli.github.io/). My research interests focus on AIGC.
+I'm now a fourth-year undergraduate student at [School of Information Science and Engineering, Shandong Normal University](https://www.ischool.sdnu.edu.cn/), supervised by [Dr. Hao Wang](https://scholar.google.com/citations?user=VaryZeIAAAAJ&hl=zh-CN). Recently, I am admitted to [Shanghai Film Academy, Shanghai University](https://sfa.shu.edu.cn/) through postgraduate recommendation exemption program. My research interests focus on AIGC.
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
